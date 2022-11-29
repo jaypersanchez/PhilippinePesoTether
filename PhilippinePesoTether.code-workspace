@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "PhilippinePesoTether",
+			"path": "."
+		},
+		{
+			"name": "truffle_openzeppelin",
+			"path": "../truffle_openzeppelin"
+		},
+		{
+			"name": "truffle_react",
+			"path": "../truffle_react"
+		},
+		{
+			"name": "funge-nft-market-place",
+			"path": "../funge-nft-market-place"
+		},
+		{
+			"name": "onebatmedia",
+			"path": "../onebatmedia"
+		},
+		{
+			"name": "funge-token-launch-smart-contracts",
+			"path": "../funge-token-launch-smart-contracts"
+		},
+		{
+			"name": "Greetings",
+			"path": "../Greetings"
+		},
+		{
+			"name": "testtruffle",
+			"path": "../../knowledgehut/testtruffle"
+		},
+		{
+			"name": "brainbuddies",
+			"path": "../brainbuddies"
+		}
+	],
+	"settings": {}
+}

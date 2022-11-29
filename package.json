@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.0.16",
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "mocha": "^10.0.0",
+    "openzeppelin-solidity": "4.6.0"
+  }
+}
